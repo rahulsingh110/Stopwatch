@@ -23,19 +23,33 @@ body{
     font-size: 64px;
     font-weight: 300;
 }
-.buttons{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-}
-.buttons img{
+.a{
+    height: 40px;
     width: 80px;
-    margin: 0 15px;
-    cursor: pointer;
-    border-radius: 60px;
-
+    border: 2px solid black;
+    color: black;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ef1a0b;
+    border-radius: 20px;
 }
-.buttons img:nth-child(2){
-    width: 110px;
+.b{
+    height: 40px;
+    width: 80px;
+    border: 2px solid black;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px ;
+    background-color: #ef1a0b;
+    border-radius: 20px;
+}
+.c{
+    height: 40px;
+    width: 80px;
+    border: 2px solid black;
+    color: black;
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ef1a0b;
+    border-radius: 20px;
 }
